@@ -28,7 +28,8 @@ Two roads diverged in a yellow wood,
 And sorry I could not travel both  
 And be one traveler, long I stood  
 And looked down one as far as I could  
-To where it bent in the undergrowth;  
+To where it bent in the undergrowth;
+
 ## Third Verse
 <!--Put the first two verses of The Walrus and the Carpenter here!-->
 The sun was shining on the sea,  
@@ -43,6 +44,23 @@ Because she thought the sun
 Had got no business to be there  
 After the day was done--  
 "It's very rude of him," she said,  
-"To come and spoil the fun!"  
+"To come and spoil the fun!" 
+
 ## Last Verse
 <!--Put a short poem of your choice 8-20 lines,here!-->
+How do I love thee? Let me count the ways.  
+I love thee to the depth and breadth and height  
+My soul can reach, when feeling out of sight  
+For the ends of being and ideal grace.  
+I love thee to the level of every day's  
+Most quiet need, by sun and candlelight.  
+I love thee freely, as men strive for right;  
+I love thee purely, as they turn from Praise.  
+I love with a passion put to use  
+In my old griefs, and with my childhood's faith.  
+I love thee with a love I seemed to lose  
+With my lost saints, I love thee with the breath,  
+Smiles, tears, of all my life! and, if God choose,  
+I shall but love thee better after death.  
+
+
